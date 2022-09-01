@@ -14,6 +14,8 @@ npm run serve
 ```
 npm run build
 ```
+### Note
+Please create a .env file and add values from your firebase config.
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
